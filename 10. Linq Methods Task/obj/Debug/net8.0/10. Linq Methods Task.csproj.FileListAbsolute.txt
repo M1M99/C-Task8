@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\bin\Debug\net8.0\10. Linq Methods Task.exe
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\bin\Debug\net8.0\10. Linq Methods Task.deps.json
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\bin\Debug\net8.0\10. Linq Methods Task.runtimeconfig.json
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\bin\Debug\net8.0\10. Linq Methods Task.dll
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\bin\Debug\net8.0\10. Linq Methods Task.pdb
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.dll
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\refint\10. Linq Methods Task.dll
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.pdb
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\10. Linq Methods Task.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\10. Linq Methods Task\10. Linq Methods Task\obj\Debug\net8.0\ref\10. Linq Methods Task.dll
